@@ -7,8 +7,8 @@ Edit the paths and the CFG dictionary here; every other module imports from this
 # SETTINGS
 # =====================================================================
 STYLE_NAME = "lineart_color"
-OUTPUT_DIR = r"D:\project\Rotoscope_animation\outputs"
-DIALOG_START_DIR = r"D:\project\Rotoscope_animation\input_videos"
+OUTPUT_DIR = "outputs"
+DIALOG_START_DIR = "inputs"
 IMAGE_EXTS = (".png", ".jpg", ".jpeg", ".bmp", ".webp", ".tif", ".tiff")
 VIDEO_EXTS = (".mp4", ".mov", ".avi", ".mkv", ".webm", ".m4v", ".wmv", ".flv")
 
